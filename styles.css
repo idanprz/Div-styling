@@ -1,0 +1,27 @@
+div {
+    margin: 5vh;
+}
+
+.yellowdiv {
+    background-color: yellow;
+    height: 30vh;
+    width: 15vh;
+    float: left;
+    border-style: solid;
+    border-width: 2px;
+    font-size: x-large;
+}
+
+.listblock {
+    background-color: blue;
+    margin: 0;
+    height: 30%;
+    border-style: solid;
+    border-color: red;
+    border-width: 4px;
+}
+
+ul {
+    display: block;
+    width: auto;
+}
